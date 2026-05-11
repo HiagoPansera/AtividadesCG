@@ -1,0 +1,17 @@
+# Modulo 6 - Trajetorias padrao
+# formato: indice_objeto x y z
+# Cubo A (0): quadrado no plano Y=0
+0 -3.0  0.0  3.0
+0  3.0  0.0  3.0
+0  3.0  0.0 -3.0
+0 -3.0  0.0 -3.0
+# Cubo B (1): retangulo com variacao vertical
+1  6.0  0.0  2.0
+1  6.0  3.0  2.0
+1  6.0  3.0 -4.0
+1  6.0  0.0 -4.0
+# Cubo C (2): retangulo espelhado
+2 -6.0  0.0  2.0
+2 -6.0  0.0 -4.0
+2 -6.0  3.0 -4.0
+2 -6.0  3.0  2.0
