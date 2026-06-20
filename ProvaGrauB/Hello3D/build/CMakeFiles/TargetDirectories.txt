@@ -1,0 +1,3 @@
+C:/Users/Hiago/Documents/AtividadesCG/GrauB Versao2/Hello3D/build/CMakeFiles/Hello3D.dir
+C:/Users/Hiago/Documents/AtividadesCG/GrauB Versao2/Hello3D/build/CMakeFiles/edit_cache.dir
+C:/Users/Hiago/Documents/AtividadesCG/GrauB Versao2/Hello3D/build/CMakeFiles/rebuild_cache.dir
